@@ -1,0 +1,51 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 10px;
+    background-color: rgba(235, 237, 243, 0.856);
+}   
+
+
+.top-bar { 
+    background-color: #000000;              
+    color: #fff;
+    padding: 10px 0;
+    font-size: 20px;
+    
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #271f96;
+    padding: 10px 15px;
+
+}
+
+
+nav ul li a:hover {
+    background-color: #1E90FF;
+    border-radius: 5px;
+}
+
+
+
+.rodape {
+    background-color: #000000;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+
